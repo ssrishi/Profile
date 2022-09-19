@@ -1,4 +1,3 @@
-@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Sharma </h1>
 <h5>I am a MCA Student From Amrita Vishwa Vidyapeetham. I am a keen learner and upgrading  my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</h5>
 
@@ -21,6 +20,6 @@
 </p>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssrishi12&show_icons=true&locale=en" alt="ssrishi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssrishi&show_icons=true&locale=en" alt="ssrishi" /></p>
  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assrishi&" alt="ssrishi" /></p>
