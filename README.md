@@ -6,11 +6,10 @@
 <h3>About Me (Intro) ~ </h3>
 
 -->  Skills: C/PYTHON.
-- 🔭 I’m currently working on **Data Structure and Alogrtihm + Competitive Programmaing.**
-- 🌱 I’m currently learning **C++.**
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at [https://github.com/ssrishi](https://github.com/ssrishi)
-- 💬 Ask me about **c,python language. **
+- 💬 Ask me about **c,python language,HTML,CSS,Tailwind. **
 - 📫 How to reach me **ssrishi17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
