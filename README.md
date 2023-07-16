@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi Sharm </h1>
+<h1 align="center">Hi 👋, I'm Rishi Sharma </h1>
 <h5>I am a MCA Student From Amrita Vishwa Vidyapeetham. I am a keen learner and upgrading  my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssrishi&label=Profile%20views&color=0e75b6&style=flat" alt="ssrishi" /> </p>
