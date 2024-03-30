@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at [https://github.com/ssrishi](https://github.com/ssrishi)
-- 💬 **SKILL   ->**         **c,python language,HTML,CSS,Tailwind,Bootstrap.**
+- 💬 **SKILL   ->**         **c,python language,HTML,CSS,Tailwind,Bootstrap, JavaScript, React.**
 - 📫 How to reach me **ssrishi17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
