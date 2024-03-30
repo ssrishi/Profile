@@ -5,7 +5,6 @@
 
 <h3>About Me (Intro) ~</h3>
 
-- Skills: C/PYTHON.
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at [https://github.com/ssrishi](https://github.com/ssrishi)
